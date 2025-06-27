@@ -2,7 +2,7 @@
 
 ## 🚀 Project Overview
 
-This project is a **fully serverless contact form**, built using AWS Lambda (Python), API Gateway, and DynamoDB. The frontend is a simple HTML file that can be opened in any browser—**no hosting or domain required**. Form submissions are securely processed and stored in DynamoDB with robust validation and error handling. The entire stack runs on the AWS Free Tier.
+This project is a **fully serverless contact form**, built using AWS Lambda (Python), API Gateway, and DynamoDB. The frontend is a simple HTML file that can be opened in any browser—**no hosting or domain required**. Form submissions are securely processed and stored in DynamoDB with robust validation and error handling.
 
 ---
 
