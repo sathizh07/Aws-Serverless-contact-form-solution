@@ -14,7 +14,7 @@ This project is a **fully serverless contact form**, built using AWS Lambda (Pyt
 ✅ Input validation on both client and server sides
 ✅ CORS enabled — works from any browser, locally or hosted
 ✅ User-friendly error handling with backend logging
-✅ AWS Free Tier friendly — ideal for demos or portfolio use
+✅ AWS portfolio use
 
 ---
 
